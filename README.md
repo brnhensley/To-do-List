@@ -1,11 +1,9 @@
-# _Places Webpage_
+# _To Do List_
 
-#### _Intro to Programming, Week 4 Objects_
-
-#### By _Ashley J. Ancheta, Brian Hensley, Mustafa Ghasemi_
+#### By _Brian Hensley_
 
 ## Description
-_This application will allow the user click a location and will display information about that. This was made to practice creating objects._
+_This is a To-do list application. You can add tasks, sort by priority, and mark them as finished._
 
 ## Specs
 | Behavior | Input | Output |
@@ -27,7 +25,7 @@ _There are no known bugs._
 
 ## Support and contact details
 
-_Should any problems occur, discover other bugs, or experience issues with viewing, please contact me at ashleyjancheta@gmail.com, brnhensley@gmail.com_
+_Should any problems occur, discover other bugs, or experience issues with viewing, please contact me at brnhensley@gmail.com_
 
 ## Technologies Used
 
@@ -37,4 +35,4 @@ _This webpage was written in HTML. Style was created using Bootstrap and a custo
 
 *This software is licensed under MIT license.*
 
-Copyright (c) 2019 **_Ashley J. Ancheta and Brian Hensley_**
+Copyright (c) 2019 **_Brian Hensley_**
